@@ -1,6 +1,6 @@
 class Forecast{
 constructor(){
-this.key = '9WLWzjmQx7b86hksfFpbbAdaJIMKVV9Q';
+this.key = 'S77UbCdNZ7uXfJYCiPwlWHfS73Xv4J8y';
 this.weatherURI = 'https://dataservice.accuweather.com/currentconditions/v1/';
 this.cityURI = 'https://dataservice.accuweather.com/locations/v1/cities/search';
 
